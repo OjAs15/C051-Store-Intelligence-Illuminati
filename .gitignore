@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+data/v2/raw/*
+data/v2/processed/*
+data/v2/output/*
